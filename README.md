@@ -52,9 +52,7 @@ This project focuses on building a complete data pipeline including:
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-link>
-cd news-aggregator
-```
+git clone https://github.com/JasmineSharpe/CSCI411-NewsAggregator
 ### 2. Install dependencies
 ```bash
 pip install -r requirements.txt
