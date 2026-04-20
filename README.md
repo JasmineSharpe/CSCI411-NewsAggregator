@@ -31,3 +31,15 @@ This project focuses on building a complete data pipeline including:
 - Visualization
 
 The goal is to explore trends and differences between satirical and real news articles.
+
+## How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the project:
+   python main.py
+
+## Example Analyses
+- Compare the number of satire vs. real articles
+- Compare headline word counts
+- Search for keywords in titles
